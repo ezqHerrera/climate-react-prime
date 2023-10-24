@@ -21,6 +21,21 @@
   order: -1;
 }
 
+.santoGrial header {
+  background-color: #ad1519;
+  width: 100%;
+}
+.santoGrial header h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fabd00;
+}
+
+.santoGrial footer {
+  text-align: center;
+  background-color: #881115;
+  color: #fabd00;
+}
+
 .santoGrial,
 .santoGrialBody {
   display: flex;

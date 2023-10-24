@@ -1,5 +1,4 @@
 import './App.css';
-import Header from './components/Header';
 
 function App() {
   return (
@@ -14,6 +13,14 @@ function App() {
 
           <main>
             <h3>El idioma español, también conocido como castellano, es una de las lenguas más habladas del mundo y posee un gran significado cultural e histórico. A continuación se da un pantallazo del idioma.</h3>
+
+            <p>
+              El idioma Español es una lengua romance hablada en España y en gran parte de Latinoamérica. Tiene más de 595 millones de hablantes a nivel mundial.
+              Sus primeros trabajos escritos se remontan al siglo 10, mientras que los literarios, al año 1150 en adelante.
+            </p>
+            <p>
+              El dialecto castellano, el origen del español moderno estándar, surgió en el siglo 9 en el norte central de España, y se expandió hacia el centro del país cerca del siglo 11.
+            </p>
           </main>
 
           <aside>
@@ -22,7 +29,8 @@ function App() {
 
         </div>
         <footer>
-          <h6>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repudiandae a cum molestias consequatur non pariatur laborum labore recusandae harum saepe esse, fugit quam eum dolorem fuga nesciunt, quasi animi sit.</h6>
+          <h4>Creado por Ezequiel Herrera</h4>
+          <h4>ITS Cipolletti - Perú y Río Salado</h4>
         </footer>
       </div>
     </>
